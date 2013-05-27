@@ -19,11 +19,30 @@ We are going to use master branch to keep up to date with jQuery Mobile versions
 
 ## Usage
 
-Copy `jquery.mobile.flatui.css`, fonts and images from `generated` folder to your project.
+- Copy `jquery.mobile.flatui.css`, fonts and images from `generated` folder to your project.
 Include link to `jquery.mobile.flatui.css`
 
 ```html
  <link rel="stylesheet" type="text/css" href="jquery.mobile.flatui.css" />
+```
+- jquery-mobile-flat-ui-theme is a [bower](https://github.com/twitter/bower) [component](http://sindresorhus.com/bower-components/) you should be able to install it by running:
+
+`bower install jqm-flatui`
+
+or if you already have a bower based project you can add jquery-mobile-flat-ui-theme to your dependency list in `bower.json`
+
+```js
+ "dependencies": {
+    ...
+    "jqm-flatui": "latest"
+    ...
+  }
+```
+
+Include link to `jquery.mobile.flatui.css`
+
+```html
+ <link rel="stylesheet" type="text/css" href="/components/generated/jquery.mobile.flatui.css" />
 ```
 
 ## Setup
