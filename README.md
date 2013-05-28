@@ -1,5 +1,7 @@
 ## jQuery Mobile Flat-UI Theme
 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=ququplay&url=https://github.com/ququplay/jquery-mobile-flat-ui-theme&title=jquery-mobile-flat-ui-theme&language=&tags=github&category=software) 
+
 Theme for jQuery Mobile based on [Flat-UI](http://designmodo.com/demo/flat-ui/).
 
 ![jQuery-Mobile-Flat-UI-Theme](http://oi46.tinypic.com/xm2xlc.jpg)
